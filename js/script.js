@@ -1,6 +1,6 @@
 const quotes = [];
 const totalNumberOfQuotes = 30;
-const apiUrl = `http://quotesondesign.com/wp-json/posts?filter[posts_per_page]=${totalNumberOfQuotes}&callback=`;
+const apiUrl = `https://quotesondesign.com/wp-json/posts?filter[posts_per_page]=${totalNumberOfQuotes}&callback=`;
 
 // constructs quote object with my own properties name insteadof what is return from the API
 function Quote(data) {
