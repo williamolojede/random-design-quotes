@@ -29,6 +29,17 @@
 		"oF": 1,
 		"oS": 0
 		},
+	"\/img\/screenshot.png": {
+		"ft": 32768,
+		"iS": 18501,
+		"oA": 0,
+		"oAP": "\/img\/screenshot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
